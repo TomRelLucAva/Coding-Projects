@@ -1,2 +1,2 @@
-# Java
-These are collaborated java projects
+# Coding Projects
+These are collaborated coding projects.
